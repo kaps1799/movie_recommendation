@@ -1,0 +1,7 @@
+
+Step1: Go to project folder
+
+step2: chmod 400 movie_recomm_micro.pem
+
+step3: ssh -i "movie_recomm_micro.pem" ubuntu@ec2-18-219-182-111.us-east-2.compute.amazonaws.com
+
